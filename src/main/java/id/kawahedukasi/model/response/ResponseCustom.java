@@ -1,4 +1,4 @@
-package id.kawahedukasi.model;
+package id.kawahedukasi.model.response;
 
 public class ResponseCustom {
     public String message;

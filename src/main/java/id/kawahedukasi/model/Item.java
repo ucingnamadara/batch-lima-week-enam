@@ -23,6 +23,7 @@ public class Item extends PanacheEntityBase {
     @Column(name = "price", nullable = false)
     private Double price;
 
+    //saran diganti jadi total
     @Column(name = "count", nullable = false)
     private Long count;
 
